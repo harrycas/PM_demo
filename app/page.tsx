@@ -9,6 +9,7 @@ import { ProjectTabs } from './components/layout/project-tabs'
 import { TaskTable } from './components/task/task-table'
 
 export default function ProjectPage() {
+  console.log("home cargado")
   return (
     <div className="flex h-screen">
       <Sidebar />
