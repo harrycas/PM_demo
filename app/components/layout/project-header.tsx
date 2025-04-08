@@ -9,7 +9,7 @@ export default function ProjectHeader() {
     <header className="border-b p-4 flex items-center justify-between">
       <div className="flex items-center gap-4">
         <MobileSidebar />
-        <div className="bg-red-500 rounded-full w-10 h-10 flex items-center justify-center text-white font-bold">h</div>
+        <div className="bg-green-500 rounded-full w-10 h-10 flex items-center justify-center text-white font-bold">h</div>
         <div className="flex items-center gap-2">
           <div className="flex items-center gap-2">
             <svg
